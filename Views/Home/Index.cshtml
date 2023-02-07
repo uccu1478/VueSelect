@@ -1,0 +1,13 @@
+﻿
+<div id="app">
+    <h1>Vue Select - Vue 3</h1>
+    <br />{{param1}}
+    <v-select :options="books" label="title" v-model="param1"></v-select>
+    <br />{{param2}}
+    <v-select :options="someData" v-model="param2"></v-select>
+    <br />
+</div>
+
+@section scripts {
+    <script type="module" src="~/Views/Home/Index.cshtml.js" asp-append-version="true"></script>
+}

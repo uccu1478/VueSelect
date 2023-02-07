@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueSelect", "VueSelect.csproj", "{901ECBB3-4A27-4C27-B001-4D46F7733190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901ECBB3-4A27-4C27-B001-4D46F7733190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901ECBB3-4A27-4C27-B001-4D46F7733190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901ECBB3-4A27-4C27-B001-4D46F7733190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901ECBB3-4A27-4C27-B001-4D46F7733190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B79862A-F276-46F7-969F-535C74ADE31C}
+	EndGlobalSection
+EndGlobal
